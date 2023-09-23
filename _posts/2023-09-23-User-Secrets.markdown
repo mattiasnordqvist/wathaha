@@ -51,4 +51,4 @@ To make this file show up nicely nested under the `secrets.json`, add the follow
 
 Restart vs and your projects with usersecrets enabled should look like this
 
-![Alt text](/assets/2023-09-23_UserSecrets.png)
+![Alt text](/wathaha/assets/2023-09-23-User-Secrets.png)
