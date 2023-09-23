@@ -2,10 +2,8 @@
 layout: post
 title: "User Secrets"
 date: 2023-09-23 13:37:48 +0200
-categories: net7 user-secrets visual-studio
+tags: net7 user-secrets visual-studio
 ---
-
-# Make User Secrets a bit easier to work with
 
 While `appsettings.json` and `appsettings.Development.json` can contain base configuration and development-specific settings, as soon as it comes to sensitive values, like connectionstrings etc, you shouldn't commit them to your repo.
 
